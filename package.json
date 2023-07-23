@@ -28,7 +28,7 @@
 	"devDependencies": {
 		"@prettier/plugin-php": "^0.19.6",
 		"cssnano": "^6.0.1",
-		"esbuild": "^0.18.13",
+		"esbuild": "^0.18.16",
 		"eslint": "^8.45.0",
 		"eslint-config-prettier": "^8.8.0",
 		"eslint-plugin-editorconfig": "^4.0.3",
